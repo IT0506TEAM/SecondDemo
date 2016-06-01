@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"请求合并");
+    NSLog(@"合并测试");
     
 }
 
